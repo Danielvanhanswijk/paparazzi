@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+dubbel test test ;lasidpo;dkfas
+=======
+test ;asdflasidpo;dkfas
+>>>>>>> 287b179ad1b15cf364308793f210a2d50d83afb4
+
